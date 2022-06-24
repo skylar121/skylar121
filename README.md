@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 <br/>
 
  
-### <div align="center">I'm Gyeongrim, currently studying to become a FE developer 👨‍💻🚀</div>  
-  
-
-<br/>  
+## <div align="center"> Hi👋 I'm Gyeongrim, currently studying to become a FE developer 👨‍💻🚀<br/></div>
 
 
-## My Skill Set  
+<br/>
+
+## <div align="center"> ✨ My Skill Set ✨
 <table><tr><td valign="top" width="33%">
 
 
