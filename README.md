@@ -13,8 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
+ 
 ### <div align="center">Hello 👋 I'm Gyeongrim, currently studying to become a FE developer 👨‍💻🚀</div>  
-  
+
+
+<br/>
+
+
+----
 
 <br/>  
 
@@ -101,5 +109,3 @@ Here are some ideas to get you started:
 
 
 <br />
-
-----
