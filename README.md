@@ -65,6 +65,3 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/> 
- 
-![Skylar's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylar121&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylar121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
