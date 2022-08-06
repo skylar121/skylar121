@@ -53,5 +53,3 @@ Here are some ideas to get you started:
 <div align="end">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskylar121%2Fhit-counter&count_bg=%23B9B2C4&title_bg=%23DBD0D0&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </div>
-
-<br/>
