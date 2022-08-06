@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <br/>
 
 
-## ✨ My Skill Set ✨
 ### 🔥 Mainly Used
 <div align="start">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
