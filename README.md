@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <br/>
 
  
-## <div align="center"> Hi👋 I'm Gyeongrim, currently studying to become a FE developer 👨‍💻🚀<br/></div>
+## Hi👋 I'm Gyeongrim, currently studying to become a FE developer 👨‍💻🚀<br/>
 
 
 <br/>
 
 
-### ✨ My Skill Set ✨
-**🔥 Mainly Used**
+## ✨ My Skill Set ✨
+### 🔥 Mainly Used
 <div align="start">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-**📝 Interesed in...**
+### 📝 Interesed in...
 <div align="start">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
